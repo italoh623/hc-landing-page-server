@@ -74,4 +74,4 @@ app.post("/cadastrar", (req, res) => {
     res.sendStatus(200)
 })
 
-app.listen(3016)
+app.listen(3000)
